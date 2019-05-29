@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://marco-souza.github.io/react-native-vs-pwa-demo/static/css/main.2cce8147.chunk.css",
-    "main.js": "https://marco-souza.github.io/react-native-vs-pwa-demo/static/js/main.575a40f9.chunk.js",
-    "main.js.map": "https://marco-souza.github.io/react-native-vs-pwa-demo/static/js/main.575a40f9.chunk.js.map",
-    "runtime~main.js": "https://marco-souza.github.io/react-native-vs-pwa-demo/static/js/runtime~main.5eb5d5be.js",
-    "runtime~main.js.map": "https://marco-souza.github.io/react-native-vs-pwa-demo/static/js/runtime~main.5eb5d5be.js.map",
-    "static/js/2.34b4fde6.chunk.js": "https://marco-souza.github.io/react-native-vs-pwa-demo/static/js/2.34b4fde6.chunk.js",
-    "static/js/2.34b4fde6.chunk.js.map": "https://marco-souza.github.io/react-native-vs-pwa-demo/static/js/2.34b4fde6.chunk.js.map",
-    "index.html": "https://marco-souza.github.io/react-native-vs-pwa-demo/index.html",
-    "precache-manifest.ff1a5e4117a7b50de42f8cb757f9cd5e.js": "https://marco-souza.github.io/react-native-vs-pwa-demo/precache-manifest.ff1a5e4117a7b50de42f8cb757f9cd5e.js",
-    "service-worker.js": "https://marco-souza.github.io/react-native-vs-pwa-demo/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "https://marco-souza.github.io/react-native-vs-pwa-demo/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "https://marco-souza.github.io/react-native-vs-pwa-demo/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.2cce8147.chunk.css",
+    "main.js": "/static/js/main.8bd174b5.chunk.js",
+    "main.js.map": "/static/js/main.8bd174b5.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.c5541365.js",
+    "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
+    "static/js/2.34b4fde6.chunk.js": "/static/js/2.34b4fde6.chunk.js",
+    "static/js/2.34b4fde6.chunk.js.map": "/static/js/2.34b4fde6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.915db54f724a30f1965e2929aa0d3971.js": "/precache-manifest.915db54f724a30f1965e2929aa0d3971.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   }
 }
